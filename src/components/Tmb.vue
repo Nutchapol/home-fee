@@ -4,7 +4,6 @@
 
 <table border = "1">
 <tr>
-  <td rowspan="3"> วงกู้อัตโนมัติ</td>
   <td rowspan="3">ทางเลือก</td>
     <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
 </tr>
@@ -20,24 +19,21 @@
   <td>เดือนที่3-18</td>
   <td>เดือนที่3-18</td>
 </tr>
-
 <tr>
-  <td rowspan="2">ต่ำกว่า 5 แสน บาท</td>
   <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td colspan="5">3.75% </td>
+  <td colspan="1">MRR-2.275%</td>
 </tr>
 <tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td>แบบที่ 2 </td>
+  <td colspan="5">4.25% </td>
+  <td colspan="1">MRR-2.025%</td>
 </tr>
 </table>
 <br><br><br><br><br>
 
 <table border = "1">
 <tr>
-  <td rowspan="3"> วงกู้อัตโนมัติ</td>
   <td rowspan="3">ทางเลือก</td>
     <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
 </tr>
@@ -55,21 +51,19 @@
 </tr>
 
 <tr>
-  <td rowspan="2">ต่ำกว่า 5 แสน บาท</td>
   <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td colspan="5">4.75% </td>
+  <td colspan="1">MRR-2.275%</td>
 </tr>
 <tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td>แบบที่ 2 </td>
+  <td colspan="5">5.25% </td>
+  <td colspan="1">MRR-2.025%</td>
 </tr>
 </table>
 <br><br><br><br><br>
 <table border = "1">
 <tr>
-  <td rowspan="3"> วงกู้อัตโนมัติ</td>
   <td rowspan="3">ทางเลือก</td>
     <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
 </tr>
@@ -87,15 +81,15 @@
 </tr>
 
 <tr>
-  <td rowspan="2">ต่ำกว่า 5 แสน บาท</td>
+
   <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td colspan="5">5.75% </td>
+  <td colspan="1">MRR-2.275%</td>
 </tr>
 <tr>
   <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td colspan="5">6.25% </td>
+  <td colspan="1">MRR-1.775%</td>
 </tr>
 </table>
 <br><br><br><br><br>

@@ -3,7 +3,7 @@
 import VueRouter from 'vue-router'
 import Vue from 'vue'
 import App from './App'
-import Hello from './components/Hello'
+import Bangkok from './components/Bangkok'
 import kungthai from './components/Kungthai'
 import kungsri from './components/Kungsri'
 import kasikornthai from './components/Kasikornthai'
@@ -12,13 +12,14 @@ import tmb from './components/Tmb'
 import cimb from './components/Cimb'
 import scb from './components/Scb'
 import thanachart from './components/Thanachart'
-import uob from './components/uob'
+import uob from './components/Uob'
 import standard from './components/Standard'
-
+import gsb from './components/Gsb'
+import ghb from './components/Ghb'
 Vue.use(VueRouter)
 const router = new VueRouter({
   routes: [
-    {name: 'Helo', path: '/Hello', component: Hello},
+    {name: 'Bangkok', path: '/Bangkok', component: Bangkok},
        {name: 'kungthai', path: '/kungthai', component: kungthai},
        {name: 'kungsri', path: '/kungsri', component: kungsri},
        {name: 'kasikornthai', path: '/kasikornthai', component: kasikornthai},
@@ -28,7 +29,9 @@ const router = new VueRouter({
        {name: 'scb', path: '/scb', component: scb},
        {name: 'thanachart', path: '/thanachart', component: thanachart},
        {name: 'uob', path: '/uob', component: uob},
-       {name: 'standard', path: '/standard', component: standard}
+       {name: 'standard', path: '/standard', component: standard},
+       {name: 'gsb', path: '/gsb', component: gsb},
+       {name: 'ghb', path: '/ghb', component: ghb}
 
   ]
 })

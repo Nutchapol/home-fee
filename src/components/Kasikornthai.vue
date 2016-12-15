@@ -22,41 +22,41 @@
 </tr>
 
 <tr>
-  <td rowspan="7">ต่ำกว่า 5 แสน บาท</td>
+  <td rowspan="7">วงเงินให้กู้สูงสุด<br>กู้ได้ไม่เกิน 80% <br>ของราคาซื้อขาย <br>และไม่เกิน 80% <br>ของราคาประเมิน</td>
   <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td colspan="2">2.95% </td>
+  <td colspan="4">MRR-0.75%</td>
 </tr>
 
 <tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td>แบบที่ 2 </td>
+  <td colspan="4">4.85% </td>
+  <td colspan="2">MRR-0.75%</td>
 </tr>
 <tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td>แบบที่ 3 </td>
+  <td colspan="5">5.50%</td>
+  <td colspan="1">MRR-0.75%</td>
 </tr>
 <tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td>แบบที่ 4 </td>
+  <td colspan="2">MRR-4.95%</td>
+  <td colspan="5">MRR-0.75%</td>
 </tr>
 <tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td>แบบที่ 5 </td>
+  <td colspan="4">MRR-2.90%</td>
+  <td colspan="2">MRR-0.75%</td>
 </tr>
 <tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td>แบบที่ 6 </td>
+  <td colspan="5">MRR-2.20%</td>
+  <td colspan="1">MRR-0.75%</td>
 </tr>
 <tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="2">3.25% </td>
-  <td colspan="5"> MLR -0.25% </td>
+  <td>แบบที่ 7 </td>
+  <td colspan="7">MRR-1.60%</td>
+
 </tr>
 </table>
 <br><br><br><br><br>

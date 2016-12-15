@@ -10,7 +10,7 @@
                  Repositories
                </p>
 
-               <router-link to="/Hello"><a class="panel-block ">
+               <router-link to="/Bangkok"><a class="panel-block ">
                  <span class="panel-icon">
                    <i class="fa fa-book"></i>
                  </span>
@@ -87,18 +87,21 @@
                  สแตนดาร์ดชาร์เตอร์ด
                </a>
              </router-link>
-               <a class="panel-block">
+                <router-link to="/gsb"><a class="panel-block">
                  <span class="panel-icon">
                    <i class="fa fa-code-fork"></i>
                  </span>
-                 mojs
-               </a>
-               <a class="panel-block">
+                  ออมสิน
+                </a>
+               </router-link>
+               <router-link to="/ghb"><a class="panel-block">
                  <span class="panel-icon">
                    <i class="fa fa-code-fork"></i>
                  </span>
-                 mojs
+                 อาคารสงเคราะห์
                </a>
+             </router-link>
+
 
                <div class="panel-block">
                  <button class="button is-primary is-outlined is-fullwidth">
@@ -119,7 +122,7 @@
 </template>
 
 <script>
-import Hello from './components/Hello'
+import Bangkok from './components/Bangkok'
 import Kungthai from './components/Kungthai'
 import Kungsri from './components/Kungsri'
 import Kasikornthai from './components/Kasikornthai'
@@ -130,10 +133,12 @@ import Scb from './components/Scb'
 import Thanachart from './components/Thanachart'
 import Uob from './components/Uob'
 import Standard from './components/Standard'
+import Gsb from './components/Gsb'
+import Ghb from './components/Ghb'
 export default {
   name: 'app',
   components: {
-    Hello,
+    Bangkok,
     Kungthai,
     Kungsri,
     Kasikornthai,
@@ -143,7 +148,9 @@ export default {
     Scb,
     Thanachart,
     Uob,
-    Standard
+    Standard,
+    Gsb,
+    Ghb
   }
 }
 </script>
@@ -175,13 +182,13 @@ background-color:#E1F5FE;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 5%;
-    height: 100vh;
+    height: 100%;
 }
 .right {
   float: right;
   width: 20%;
   background-color: #47E6EC;
-
+  height: 100%;
 
 }
 

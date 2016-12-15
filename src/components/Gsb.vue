@@ -1,9 +1,11 @@
 <template>
-  <div class="cimb">
+  <div class="gsb">
+
+
 
 <table border = "1">
 <tr>
-  <td rowspan="3">ประเภท</td>
+  <td rowspan="3"> วงกู้อัตโนมัติ</td>
   <td rowspan="3">ทางเลือก</td>
     <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
 </tr>
@@ -21,18 +23,15 @@
 </tr>
 
 <tr>
-  <td colspan="1">MRTA</td>
+  <td rowspan="2">ต่ำกว่า 5 แสน บาท</td>
   <td>แบบที่ 1 </td>
-  <td colspan="2">MRR-6.91%</td>
-  <td colspan="3">MRR-3.40%</td>
-  <td colspan="1">MRR-1.75%</td>
+  <td colspan="2">3.25% </td>
+  <td colspan="5"> MLR -0.25% </td>
 </tr>
 <tr>
-  <td colspan="1">No MRTA</td>
   <td>แบบที่ 1 </td>
-  <td colspan="2">MRR-6.31%</td>
-  <td colspan="3">MRR-2.80%</td>
-  <td colspan="1">MRR-1.75%</td>
+  <td colspan="2">3.25% </td>
+  <td colspan="5"> MLR -0.25% </td>
 </tr>
 </table>
 <br><br><br><br><br>
@@ -41,7 +40,7 @@
 
 <script>
 export default {
-  name: 'Cimb',
+  name: 'Gsb',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
