@@ -14,7 +14,7 @@
 
     <table border = "1">
     <tr>
-      <td rowspan="2"> วงกู้อัตโนมัติ</td>
+      <td rowspan="2"> ประเภท</td>
       <td rowspan="2">ทางเลือก</td>
         <td colspan="4">อัตราดอกเบี้ย(ต่อปี)</td>
     </tr>

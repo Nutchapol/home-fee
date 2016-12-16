@@ -14,7 +14,7 @@
         </h1>
         <table border="1" >
           <tr>
-            <td rowspan="3"> วงกู้อัตโนมัต </td>
+            <td rowspan="3"> ประเภท </td>
             <td rowspan="3" > ทางเลือก </td>
           <td colspan = "6"> อีตราดอกเบี้ย(ต่อปี) </td>
           </tr>

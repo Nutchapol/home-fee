@@ -15,12 +15,10 @@
 -เลือกผ่อนชำระแบบคงที่ หรือผ่อนชำระแบบขั้นบันได<br>
 -ข้อเสนอพิเศษเพิ่มเติมจากโครงการบ้านชั้นนำ<br><br><br>
 </h1>
-  <h1 text-align ="right" >
-  สินเชื่อเพื่อซื้อที่อยู่อาศัยทุกประเภท และสินเชื่อเพื่อปลูกสร้าง<br>
-  </h1>
+  
     <table border = "1">
     <tr>
-      <td rowspan="3"> วงกู้อัตโนมัติ</td>
+      <td rowspan="3">ประเภท</td>
       <td rowspan="3">ทางเลือก</td>
         <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
     </tr>
@@ -59,7 +57,7 @@
 
     <table border = "1">
     <tr>
-      <td rowspan="3"> วงกู้อัตโนมัติ</td>
+      <td rowspan="3"> ประเภท</td>
       <td rowspan="3">ทางเลือก</td>
         <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
     </tr>
@@ -96,7 +94,7 @@
     <br><br><br>
     <table border = "1">
     <tr>
-      <td rowspan="3"> วงกู้อัตโนมัติ</td>
+      <td rowspan="3"> ประเภท</td>
       <td rowspan="3">ทางเลือก</td>
         <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
     </tr>
@@ -133,7 +131,7 @@
     <br><br><br>
     <table border = "1">
     <tr>
-      <td rowspan="3"> วงกู้อัตโนมัติ</td>
+      <td rowspan="3"> ประเภท</td>
       <td rowspan="3">ทางเลือก</td>
         <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
     </tr>
@@ -160,7 +158,7 @@
     <br><br><br>
     <table border = "1">
     <tr>
-      <td rowspan="3"> วงกู้อัตโนมัติ</td>
+      <td rowspan="3"> ประเภท</td>
       <td rowspan="3">ทางเลือก</td>
         <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
     </tr>

@@ -10,7 +10,7 @@
 
 <table border = "1">
 <tr>
-  <td rowspan="3"> วงกู้อัตโนมัติ</td>
+  <td rowspan="3"> ประเภท</td>
   <td rowspan="3">ทางเลือก</td>
     <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
 </tr>
@@ -28,14 +28,14 @@
 </tr>
 
 <tr>
-  <td>ต่ำกว่า 5 แสน บาท</td>
+  <td>อัตราดอกเบี้ยคงที่2ปี</td>
   <td>แบบที่ 1 </td>
   <td colspan="2">1.25% </td>
   <td colspan="2"> MRR-2.00 </td>
   <td colspan="2"> MRR-0.75 </td>
 </tr>
 <tr>
-  <td>ต่ำกว่า 5 แสน บาท</td>
+  <td>อัตราดอกเบี้ยคงที่3ปี</td>
   <td>แบบที่ 2 </td>
   <td colspan="5">4.50% </td>
   <td > MRR-0.75 </td>

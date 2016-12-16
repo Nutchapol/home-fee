@@ -10,7 +10,7 @@
 </h1>
 <table border = "1">
 <tr>
-  <td rowspan="3"> วงกู้อัตโนมัติ</td>
+  <td rowspan="3"> ประเภท</td>
   <td rowspan="3">ทางเลือก</td>
     <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
 </tr>
@@ -28,7 +28,7 @@
 </tr>
 
 <tr>
-  <td>ต่ำกว่า 5 แสน บาท</td>
+  <td>สินเชื่อบ้านกรุงไทยบ้านแสนสะดวก</td>
   <td>แบบที่ 1 </td>
   <td colspan="2">3.25% </td>
   <td colspan="5"> MLR -0.25% </td>
@@ -40,7 +40,7 @@
 </h1>
 <table border = "1">
 <tr>
-  <td rowspan="3"> วงกู้อัตโนมัติ</td>
+  <td rowspan="3"> ประเภท</td>
   <td rowspan="3">ทางเลือก</td>
     <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
 </tr>
@@ -58,7 +58,7 @@
 </tr>
 
 <tr>
-  <td>ต่ำกว่า 5 แสน บาท</td>
+  <td>KTB STEP UP</td>
   <td>แบบที่ 1 </td>
   <td colspan="6">MRR-0.625% </td>
 

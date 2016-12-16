@@ -11,38 +11,10 @@
     -สบายๆกับการผ่อนชำระนานสูงสุด 30 ปี (ระยะเวลาการผ่อนชำระเมื่อรวมกับอายุผู้กู้แล้วต้องไม่เกิน 65 ปี)<br><br><br>
     </h1>
 
-<table border = "1">
-<tr>
-  <td rowspan="3">ทางเลือก</td>
-    <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
-</tr>
-<tr>
-  <td colspan="2"> ปีที่ 1 </td>
-    <td colspan="2"> ปีที่ 2 </td>
-        <td rowspan="2"> ปีที่ 3 </td>
-        <td rowspan="2"> หลังจากนั้น </td>
-</tr>
-<tr>
-  <td>เดือนที่1-6</td>
-  <td>เดือนที่7-12</td>
-  <td>เดือนที่3-18</td>
-  <td>เดือนที่3-18</td>
-</tr>
-<tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="5">3.75% </td>
-  <td colspan="1">MRR-2.275%</td>
-</tr>
-<tr>
-  <td>แบบที่ 2 </td>
-  <td colspan="5">4.25% </td>
-  <td colspan="1">MRR-2.025%</td>
-</tr>
-</table>
-<br><br><br><br><br>
 
 <table border = "1">
 <tr>
+    <td rowspan="3">ประเภท</td>
   <td rowspan="3">ทางเลือก</td>
     <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
 </tr>
@@ -60,6 +32,7 @@
 </tr>
 
 <tr>
+    <td rowspan="2">ประเภท</td>
   <td>แบบที่ 1 </td>
   <td colspan="5">4.75% </td>
   <td colspan="1">MRR-2.275%</td>
@@ -71,37 +44,7 @@
 </tr>
 </table>
 <br><br><br><br><br>
-<table border = "1">
-<tr>
-  <td rowspan="3">ทางเลือก</td>
-    <td colspan="6">อัตราดอกเบี้ย(ต่อปี)</td>
-</tr>
-<tr>
-  <td colspan="2"> ปีที่ 1 </td>
-    <td colspan="2"> ปีที่ 2 </td>
-        <td rowspan="2"> ปีที่ 3 </td>
-        <td rowspan="2"> หลังจากนั้น </td>
-</tr>
-<tr>
-  <td>เดือนที่1-6</td>
-  <td>เดือนที่7-12</td>
-  <td>เดือนที่3-18</td>
-  <td>เดือนที่3-18</td>
-</tr>
 
-<tr>
-
-  <td>แบบที่ 1 </td>
-  <td colspan="5">5.75% </td>
-  <td colspan="1">MRR-2.275%</td>
-</tr>
-<tr>
-  <td>แบบที่ 1 </td>
-  <td colspan="5">6.25% </td>
-  <td colspan="1">MRR-1.775%</td>
-</tr>
-</table>
-<br><br><br><br><br>
   </div>
 </template>
 
