@@ -10,7 +10,6 @@ import kasikornthai from './components/Kasikornthai'
 import kiatnakin from './components/Kiatnakin'
 import tmb from './components/Tmb'
 import cimb from './components/Cimb'
-import scb from './components/Scb'
 import thanachart from './components/Thanachart'
 import uob from './components/Uob'
 import standard from './components/Standard'
@@ -26,7 +25,6 @@ const router = new VueRouter({
        {name: 'kiatnakin', path: '/kiatnakin', component: kiatnakin},
        {name: 'tmb', path: '/tmb', component: tmb},
        {name: 'cimb', path: '/cimb', component: cimb},
-       {name: 'scb', path: '/scb', component: scb},
        {name: 'thanachart', path: '/thanachart', component: thanachart},
        {name: 'uob', path: '/uob', component: uob},
        {name: 'standard', path: '/standard', component: standard},

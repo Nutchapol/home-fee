@@ -59,13 +59,6 @@
                  ซีไอเอ็มบี
                </a>
                 </router-link>
-               <router-link to="/scb"><a class="panel-block">
-                 <span class="panel-icon">
-                   <i class="fa fa-code-fork"></i>
-                 </span>
-                 SCB
-               </a>
-               </router-link>
                <router-link to="/thanachart"><a class="panel-block">
                  <span class="panel-icon">
                    <i class="fa fa-code-fork"></i>
@@ -129,7 +122,6 @@ import Kasikornthai from './components/Kasikornthai'
 import Kiatnakin from './components/Kiatnakin'
 import Tmb from './components/Tmb'
 import Cimb from './components/Cimb'
-import Scb from './components/Scb'
 import Thanachart from './components/Thanachart'
 import Uob from './components/Uob'
 import Standard from './components/Standard'
@@ -145,7 +137,6 @@ export default {
     Kiatnakin,
     Tmb,
     Cimb,
-    Scb,
     Thanachart,
     Uob,
     Standard,
