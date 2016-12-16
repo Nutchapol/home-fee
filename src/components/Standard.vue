@@ -1,6 +1,10 @@
 <template>
   <div class="standard">
+    <h1 text-align ="right" >
+      ให้ส่วนลดเงินต้นได้ทันทีและประหยัดดอกเบี้ยเมื่อชำระเงินเกินค่างวดที่ธนาคารฯ กำหนด
+      เบิกถอนเงินส่วนที่ชำระเกินได้ตามต้องการ ตลอด 24 ชม ผ่าน ATM<br><br><br>
 
+    </h1>
 
 <table border = "1">
 <tr>
@@ -24,9 +28,8 @@
 <tr>
   <td>ต่ำกว่า 5 แสน บาท</td>
   <td>แบบที่ 1 </td>
-  <td colspan="2">3% </td>
-  <td colspan="3"> MLR -0.25% </td>
-  <td > MLR -0.25% </td>
+  <td colspan="5">5.04%</td>
+  <td > 6.54% </td>
 </tr>
 </table>
 <br><br><br><br><br>

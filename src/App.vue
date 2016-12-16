@@ -73,7 +73,7 @@
                  ธนชาติ
                </a>
                </router-link>
-               <router-link to="/thanachart"><a class="panel-block">
+               <router-link to="/uob"><a class="panel-block">
                  <span class="panel-icon">
                    <i class="fa fa-code-fork"></i>
                  </span>
@@ -183,6 +183,7 @@ background-color:#E1F5FE;
     padding-right: 5%;
     padding-top: 5%;
     height: 100%;
+    text-align: left;
 }
 .right {
   float: right;
